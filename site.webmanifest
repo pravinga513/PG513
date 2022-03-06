@@ -1,0 +1,23 @@
+{
+    "name": "PG513",
+    "short_name": "PG513",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjqHmFOgMZaNA8vKIfKxkkDU7Vgj1OztI_9T1eiupbQXkKVYQlRy3PM5xD7U2V-4cQhMaESmiRnyZ1iwnWATJrvicvknjnnDq0n9gFrDBfi9a7S8o5UIyK2gX9PMIP5NG_UZp2V2NPrJI6bJ3oMDIqwC3tYclasmyPH2Wglit4f2Iod-VNJJTYJJll-=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjQI64GfFz35g_y3IMipLoSVpTorKxkvYron2HJcHN9adSnyrDpznztpRtjC2lfTUiVoHOB06p1zksnQEMlFiuOAbEt8Q-kX0qbnz7taQwFQRWIneYB2UnzecfI-qukHcEVqbRJ0dOT0o17hIEx8If34SPpbev_J25rPcAPwbMgBDsa_hjDxM3zf03J=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://pravinga513.blogspot.com/"
+}
