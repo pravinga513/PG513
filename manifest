@@ -1,0 +1,30 @@
+{
+  "background_color": "#17202c",
+  "description": "Free Marketplace of best minecraft mods,addons,maps and many more things for your minecraft pocket  edition and java edition",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PG513",
+  "orientation": "any",
+  "scope": "https://pga513.blogspot.com/",
+  "short_name": "PG513",
+  "start_url": "/",
+  "theme_color": "#ff9800",
+  "categories": [
+    "games"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://pga513.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/AHs97-kBE6G115ZgvZ8j4VAJRgXndOUMSQHXLV4y8K5GV4lK-C2dlAgHBjNNKNwZTnyAE0VCaT0sRLuZJVlHTHWp8T3snCfIlHK2jAR4e4Ed_QHZfR7i6fRbBMo7VfMycB7sHcXJ9zlZK9Nm-VJhh1nNfQNWruO8WXjLqemTtcDHnGakwjqOZCkNpH0zVtG8YGOW9yhe9gk=w1600"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
