@@ -2,21 +2,21 @@
     "name": "PG513",
     "short_name": "PG513",
     "categories": [ "games" ],
-    
-    
-    
     "shortcuts": [
     {
         "name": "Liked",
         "short_name": "Liked",
         "description": "Take a look at what you liked.",
         "url": "https://pga513.blogspot.com/p/liked.html",
-        "icons": [
-            {
-                "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3rCEX2NsOZmva3G17qw3oJnuOm1nmBx2a7COUkbHE10IqDeHFZyONWwPu3wQupC_A6T0z6iTtGB_X4cYxpX2U4PKrdMhl1RFxs8_TLWYhHMDMQ7P57wDmRw-U7le-U4rIM3BJoytQZNrBIE9JFUFPMB2DnDjD5yTw7e2pka49TqdJi7mILmA1M_ieQ/s96/like.png",
-                "sizes": "96x96"
-            }
-        ]
+        
+    }
+    ,
+    {
+        "name": "Watch",
+        "short_name": "Watch",
+        "description": "Watch videos here.",
+        "url": "https://pga513.blogspot.com/p/watch.html",
+       
     }
 ]
     "icons": [
