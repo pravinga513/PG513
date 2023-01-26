@@ -17,18 +17,6 @@
                 "sizes": "96x96"
             }
         ]
-    },
-    {
-        "name": "Watch",
-        "short_name": "Watch",
-        "description": "Watch videos here.",
-        "url": "https://pga513.blogspot.com/p/watch.html",
-        "icons": [
-            {
-                "src": "contact-icon.png",
-                "sizes": "48x48"
-            }
-        ]
     }
 ]
     "icons": [
