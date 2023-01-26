@@ -2,6 +2,17 @@
     "name": "PG513",
     "short_name": "PG513",
     "categories": [ "games" ],
+    "shortcuts": [
+  {
+    "name": "Liked",
+    "url": "https://pga513.blogspot.com/p/liked.html"
+  },
+  {
+    "name": "Send Message",
+    "url": "/new-message",
+    "description": "Open a chat with another user and send a message to them."
+  }
+],
     "icons": [
     
     { "src": "https://pga513.blogspot.com/favicon.ico",
