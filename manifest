@@ -19,10 +19,10 @@
         ]
     },
     {
-        "name": "Contact Us",
-        "short_name": "Contact",
-        "description": "Contact the website's support team",
-        "url": "/contact",
+        "name": "Watch",
+        "short_name": "Watch",
+        "description": "Watch videos here.",
+        "url": "https://pga513.blogspot.com/p/watch.html",
         "icons": [
             {
                 "src": "contact-icon.png",
@@ -31,27 +31,6 @@
         ]
     }
 ]
-
-    
-    
-    
-    
-    
-    
-    
-    
-    "shortcuts": [
-  {
-    "name": "",
-    "url": "",
-    "description": "."
-    },
-  {
-    "name": "Watch",
-    "url": "https://pga513.blogspot.com/p/watch.html",
-    "description": "Watch videos here."
-  }
-],
     "icons": [
     
     { "src": "https://pga513.blogspot.com/favicon.ico",
