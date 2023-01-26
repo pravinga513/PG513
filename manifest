@@ -18,6 +18,12 @@
     "name": "Watch",
     "url": "https://pga513.blogspot.com/p/watch.html",
     "description": "Watch videos here."
+     "icons": [
+            {
+                "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4bpFi6BxzyeBGIwlwM5gZvvWYRXozypDRSGQGw0x4Cn8uVmiei06hiEkEIhizb45cnF-Yu3x2CA6yPRyaUF8GrltXbYb30rAVSoW4FL-W5VRwV4VcpxT-gHaO79R1I_d5vliRhXH4JGOcLhemjMwBjJr0JLsnUuAggZRwToXVC2mh2_enGE6wgqB_g/s48/play.png",
+                "sizes": "48x48"
+            }
+        ]
   }
 ],
 
