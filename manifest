@@ -11,25 +11,16 @@
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKFxv3KTp9qXOLjmOxJfFrQXmp4J1GitE_DaSlSApXyfC73fh4Go7ex2Pxrddd_Vh5vm1_AW4T2D7Y_cW5fGBiJbiOod9Qz2dHFxhWkIubVNJH3Hae5BLPEOWB8_BneZkw90oP82D6bMaCW3rAtoLiMizu8WFQT3mt9fsvt5QOEtMx6CUL7X8BU28j8g/s192/android-launchericon-192-192.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose":"maskable"
+            "purpose":"maskable , any"
         },
-        {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKFxv3KTp9qXOLjmOxJfFrQXmp4J1GitE_DaSlSApXyfC73fh4Go7ex2Pxrddd_Vh5vm1_AW4T2D7Y_cW5fGBiJbiOod9Qz2dHFxhWkIubVNJH3Hae5BLPEOWB8_BneZkw90oP82D6bMaCW3rAtoLiMizu8WFQT3mt9fsvt5QOEtMx6CUL7X8BU28j8g/s192/android-launchericon-192-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose":"any"
+       
         },
-        {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJGKlirdDwl_zkteUaMuX5lx5gx2eFtzHNiFS2VGVrzxQ1IpmN3Z-_xvRk0ZtdfPoHc55t9Ss_wHTCZ1DkUYXFIirUWmJymqjSJRm3eCnJPXNHbkyxrBHSytNGlRklSF2RUHckKtnOWSFKzZ-Fcz6yarMtgwt21yzHaCKK8D4WZabq_-7ObmPZeaz4g/s512/android-launchericon-512-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose":"maskable"
-        },
+       
        {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJGKlirdDwl_zkteUaMuX5lx5gx2eFtzHNiFS2VGVrzxQ1IpmN3Z-_xvRk0ZtdfPoHc55t9Ss_wHTCZ1DkUYXFIirUWmJymqjSJRm3eCnJPXNHbkyxrBHSytNGlRklSF2RUHckKtnOWSFKzZ-Fcz6yarMtgwt21yzHaCKK8D4WZabq_-7ObmPZeaz4g/s512/android-launchericon-512-512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose":"any"
+            "purpose":"maskable , any"
         }
     ],
     "theme_color": "#ff9800",
