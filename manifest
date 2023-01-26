@@ -3,22 +3,18 @@
     "short_name": "PG513",
     "categories": [ "games" ],
     "shortcuts": [
-    {
-        "name": "Liked",
-        "short_name": "Liked",
-        "description": "Take a look at what you liked.",
-        "url": "https://pga513.blogspot.com/p/liked.html"
-        
-    }
-    ,
-    {
-        "name": "Watch",
-        "short_name": "Watch",
-        "description": "Watch videos here.",
-        "url": "https://pga513.blogspot.com/p/watch.html"
-       
-    }
+  {
+    "name": "Liked",
+    "url": "https://pga513.blogspot.com/p/liked.html",
+    "description": "Take a look at what you liked."
+  },
+  {
+    "name": "Watch",
+    "url": "https://pga513.blogspot.com/p/watch.html",
+    "description": "Watch videos here."
+  }
 ],
+
     "icons": [
     
     { "src": "https://pga513.blogspot.com/favicon.ico",
