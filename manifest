@@ -4,7 +4,7 @@
     "categories": [ "games" ],
     "shortcuts": [{
     "name": "Liked",
-    "url": "https://pravinga513.blogspot.com//p/liked.html",
+    "url": "https://pg513/p/liked.html",
     "description": "Take a look at what you liked.",
      "icons": [{
                 "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQKcWC-J9KAFY-p7vddBbC9p7xGkm8wGJDlMeYLfOtwN_WyqMuAhcWs8GQ-AyuAuiVDdLCMz6fxcQ9u_8PmFnEA34AGG4UFTdXIexOWVlS99lsq9nwYeDRg6AFxo6pCQ1fZXaSCOFlzvSiQm8wV7C6yzcNoJGFI-f9Z_vGpWkzVCZlvmCXPYEhYfKwIw/s48/like.png",
@@ -15,7 +15,7 @@
         "name": "Watch",
         "short_name": "Watch",
         "description": "Watch videos here.",
-        "url": "https://pravinga513.blogspot.com//p/watch.html",
+        "url": "https://pg513.in/p/watch.html",
         "icons": [
             {
                 "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4bpFi6BxzyeBGIwlwM5gZvvWYRXozypDRSGQGw0x4Cn8uVmiei06hiEkEIhizb45cnF-Yu3x2CA6yPRyaUF8GrltXbYb30rAVSoW4FL-W5VRwV4VcpxT-gHaO79R1I_d5vliRhXH4JGOcLhemjMwBjJr0JLsnUuAggZRwToXVC2mh2_enGE6wgqB_g/s48/play.png",
@@ -27,7 +27,7 @@
 
     "icons": [
     
-    { "src": "https://pravinga513.blogspot.com//favicon.ico",
+    { "src": "https://pg513.in/favicon.ico",
     "type": "image/x-icon"
     },
         {
@@ -52,5 +52,5 @@
     "display": "standalone",
     "prefer_related_applications": false,
     "description": "Free marketplace for the best Minecraft mods, add-ons, maps, and more for both Minecraft pocket edition and Java edition.",
-  "start_url": "https://pravinga513.blogspot.com/"
+  "start_url": "https://pg513.in"
 }
