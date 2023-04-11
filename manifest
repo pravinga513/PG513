@@ -7,7 +7,7 @@
   "shortcuts": [
     {
       "name": "Liked",
-      "url": "https://pg513/p/liked.html",
+      "url": "https://www.pg513/p/liked.html",
       "description": "Take a look at what you liked.",
       "icons": [
         {
@@ -20,7 +20,7 @@
       "name": "Watch",
       "short_name": "Watch",
       "description": "Watch videos here.",
-      "url": "https://pg513.in/p/watch.html",
+      "url": "https://www.pg513.in/p/watch.html",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4bpFi6BxzyeBGIwlwM5gZvvWYRXozypDRSGQGw0x4Cn8uVmiei06hiEkEIhizb45cnF-Yu3x2CA6yPRyaUF8GrltXbYb30rAVSoW4FL-W5VRwV4VcpxT-gHaO79R1I_d5vliRhXH4JGOcLhemjMwBjJr0JLsnUuAggZRwToXVC2mh2_enGE6wgqB_g/s48/play.png",
@@ -31,7 +31,7 @@
   ],
   "icons": [
     {
-      "src": "https://pg513.in/favicon.ico",
+      "src": "https://www.pg513.in/favicon.ico",
       "type": "image/x-icon"
     },
     {
@@ -52,5 +52,5 @@
   "display": "standalone",
   "prefer_related_applications": false,
   "description": "Free marketplace for the best Minecraft mods, add-ons, maps, and more for both Minecraft pocket edition and Java edition.",
-  "start_url": "https://pg513.in"
+  "start_url": "https://www.pg513.in"
 }
