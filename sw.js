@@ -3,7 +3,7 @@ var filesToCache = [
   '/',
   '/p/liked.html',
   '/css/style.css',
-  '/js/main.js'
+  'https://raw.githubusercontent.com/pravinga513/PG513/main/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
