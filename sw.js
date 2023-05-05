@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'pg513';
 var filesToCache = [
   '/',
   '/p/liked.html',
