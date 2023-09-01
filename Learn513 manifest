@@ -1,0 +1,56 @@
+{
+  "name": "Learn513",
+  "short_name": "Learn513",
+  "categories": [
+    "games"
+  ],
+  "shortcuts": [
+    {
+      "name": "Liked",
+      "url": "https://learn.pg513.in/",
+      "description": "Take a look at what you liked.",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQKcWC-J9KAFY-p7vddBbC9p7xGkm8wGJDlMeYLfOtwN_WyqMuAhcWs8GQ-AyuAuiVDdLCMz6fxcQ9u_8PmFnEA34AGG4UFTdXIexOWVlS99lsq9nwYeDRg6AFxo6pCQ1fZXaSCOFlzvSiQm8wV7C6yzcNoJGFI-f9Z_vGpWkzVCZlvmCXPYEhYfKwIw/s48/like.png",
+          "sizes": "48x48"
+        }
+      ]
+    },
+    {
+      "name": "Watch",
+      "short_name": "Watch",
+      "description": "Watch videos here.",
+      "url": "https://learn.pg513.in/",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4bpFi6BxzyeBGIwlwM5gZvvWYRXozypDRSGQGw0x4Cn8uVmiei06hiEkEIhizb45cnF-Yu3x2CA6yPRyaUF8GrltXbYb30rAVSoW4FL-W5VRwV4VcpxT-gHaO79R1I_d5vliRhXH4JGOcLhemjMwBjJr0JLsnUuAggZRwToXVC2mh2_enGE6wgqB_g/s48/play.png",
+          "sizes": "48x48"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://learn.pg513.in/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKFxv3KTp9qXOLjmOxJfFrQXmp4J1GitE_DaSlSApXyfC73fh4Go7ex2Pxrddd_Vh5vm1_AW4T2D7Y_cW5fGBiJbiOod9Qz2dHFxhWkIubVNJH3Hae5BLPEOWB8_BneZkw90oP82D6bMaCW3rAtoLiMizu8WFQT3mt9fsvt5QOEtMx6CUL7X8BU28j8g/s192/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJGKlirdDwl_zkteUaMuX5lx5gx2eFtzHNiFS2VGVrzxQ1IpmN3Z-_xvRk0ZtdfPoHc55t9Ss_wHTCZ1DkUYXFIirUWmJymqjSJRm3eCnJPXNHbkyxrBHSytNGlRklSF2RUHckKtnOWSFKzZ-Fcz6yarMtgwt21yzHaCKK8D4WZabq_-7ObmPZeaz4g/s512/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#ff9800",
+  "background_color": "#17202c",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "description": "Free marketplace for the best Minecraft mods, add-ons, maps, and more for both Minecraft pocket edition and Java edition.",
+  "start_url": "https://learn.pg513.in/"
+}
