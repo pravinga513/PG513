@@ -35,20 +35,20 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKFxv3KTp9qXOLjmOxJfFrQXmp4J1GitE_DaSlSApXyfC73fh4Go7ex2Pxrddd_Vh5vm1_AW4T2D7Y_cW5fGBiJbiOod9Qz2dHFxhWkIubVNJH3Hae5BLPEOWB8_BneZkw90oP82D6bMaCW3rAtoLiMizu8WFQT3mt9fsvt5QOEtMx6CUL7X8BU28j8g/s192/android-launchericon-192-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-ifQMxcSKI3DUhKXbI9zrA9U1ZiVzxEqG64oycQl4nf-H1fNV4yAdCF-DI83IL_OpjcUy3fNy80BRFViqMHSL6X3Z46ZhQzdnAlfGD0Zdosvwkj8etBMJw2ZpRk2xthraafcVtROFekdRTS8LsxIGWatioeJ4jUWJiFXC7HyFEiienaCY1FiZFCYNq3X/s198/learn192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJGKlirdDwl_zkteUaMuX5lx5gx2eFtzHNiFS2VGVrzxQ1IpmN3Z-_xvRk0ZtdfPoHc55t9Ss_wHTCZ1DkUYXFIirUWmJymqjSJRm3eCnJPXNHbkyxrBHSytNGlRklSF2RUHckKtnOWSFKzZ-Fcz6yarMtgwt21yzHaCKK8D4WZabq_-7ObmPZeaz4g/s512/android-launchericon-512-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxe5deWc8l6dVGRIg8mCrkklV5HwSMRDTmjAMByPzmguXVLJgku83HEezBs41M26dOwdgaUXCFbczOqUCAIoIwTW6CKVhP5KwBLWc1OApehPrk8ee7n85uLcn056Ob73CNnLIn3GLJW0zXlwn9yM2cDlOOsuDmflg8Tvcin7iXBJQBNJ6j5DDPPmBCnl09/s520/learn512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
   ],
   "theme_color": "#ff9800",
-  "background_color": "#17202c",
+  "background_color": "#7b128b",
   "display": "standalone",
   "prefer_related_applications": false,
   "description": "Free marketplace for the best Minecraft mods, add-ons, maps, and more for both Minecraft pocket edition and Java edition.",
