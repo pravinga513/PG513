@@ -1,6 +1,6 @@
 {
-  "name": "PG513",
-  "short_name": "PG513",
+  "name": "MCMP",
+  "short_name": "MCMP",
   "categories": [
     "games"
   ],
@@ -35,13 +35,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKFxv3KTp9qXOLjmOxJfFrQXmp4J1GitE_DaSlSApXyfC73fh4Go7ex2Pxrddd_Vh5vm1_AW4T2D7Y_cW5fGBiJbiOod9Qz2dHFxhWkIubVNJH3Hae5BLPEOWB8_BneZkw90oP82D6bMaCW3rAtoLiMizu8WFQT3mt9fsvt5QOEtMx6CUL7X8BU28j8g/s192/android-launchericon-192-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKCGL4w3vPlH84Y8TCqwx-qMj13EVOK-cXBfs6O95hn1nzRU9P_K1b4EWF5Nk4048kLGL-Gw55zRiBtgeVDi1JyJ2NtqYq2zJHkmVqCMbQJtBnFqBzVTn60wsgN-Y7PS5jjAN4lrqbQ_Qw1GobmRMDllE8XvdgCRmMQolJhsfDaWcSEs6NBX6dAfkBhyIm/s192/20240229_120333.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJGKlirdDwl_zkteUaMuX5lx5gx2eFtzHNiFS2VGVrzxQ1IpmN3Z-_xvRk0ZtdfPoHc55t9Ss_wHTCZ1DkUYXFIirUWmJymqjSJRm3eCnJPXNHbkyxrBHSytNGlRklSF2RUHckKtnOWSFKzZ-Fcz6yarMtgwt21yzHaCKK8D4WZabq_-7ObmPZeaz4g/s512/android-launchericon-512-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl63UsV6u01DwAu5SMGqES9E4sVeBsKjkP-M6zsbte0VHhmDLPn45oHT7D6wDSWZv2UeM3IrTKxU3VTa2vMMKcVKgNXRmRJ_8Ng1Lwu6W3B97_tjiTOj-Q7TGhcDxIgksfnLHNaXuasF20Dcp6l8WJuZxZm_ksvFkGrI0KTv9yzBbJduW3-is78qsNoLBL/s512/20240229_120348.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
