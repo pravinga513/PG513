@@ -47,6 +47,14 @@
       "purpose": "any"
     }
   ],
+
+  "web_apps": [
+    {
+      "web_app_identity": "https://MCMP.pg513.in/"
+    }
+  ],
+
+
   "theme_color": "#ff9800",
   "background_color": "#17202c",
   "display": "standalone",
